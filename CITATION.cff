@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Exam-LLM: Ranking proximity between student and Large Language Model answers in academic exams"
+message: "If you use this repository, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Deroubaix
+    given-names: Adrien
+    orcid: "https://orcid.org/0000-0003-4464-7802"
+  - family-names: Labuhn
+    given-names: Inga
+    orcid: "https://orcid.org/0000-0003-3755-5264"
+repository-code: "https://github.com/AdrienBax/Exam-LLM"
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-06"
+abstract: "Transparent Python workflow for ranking textual proximity between anonymized student exam answers and LLM-generated reference answers using TF-IDF, cosine similarity, and t-SNE visualization."
