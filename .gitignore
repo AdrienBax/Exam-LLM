@@ -1,21 +1,59 @@
+# ============================================================
 # Python
+# ============================================================
 __pycache__/
 *.py[cod]
+*$py.class
+
+# Virtual environments
 .venv/
 venv/
-.env
+env/
+ENV/
 
-# OS / editor
-.DS_Store
-Thumbs.db
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
 .vscode/
 .idea/
+.DS_Store
+Thumbs.db
+desktop.ini
 
+# ============================================================
 # Generated outputs
+# ============================================================
 outputs/*
 !outputs/.gitkeep
 data/output*/
+data/output_*/
+data/output_v*/
 
-# Optional extracted raw data duplicates
-# Keep the distributed raw archive, but avoid committing generated/extracted temporary copies twice.
-*.tmp
+# Generated figures and analysis tables
+*.png
+*.pdf
+*.svg
+scores_*.csv
+summary_*.csv
+*_similarity_matrix.csv
+*_tsne_coordinates.csv
+
+# ============================================================
+# Sensitive or temporary files that must not be published
+# ============================================================
+student_anonymization_map.csv
+data/**/student_anonymization_map.csv
+
+# Raw compressed archives should not be committed to GitHub.
+# Extract anonymized .txt files into data/ and data/students/ instead.
+data/raw/*
+!data/raw/.gitkeep
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Logs
+*.log

@@ -1,10 +1,8 @@
-# Input data
+# Input data layout
 
-This folder contains the input corpus used by the analysis scripts.
+This directory is expected to contain the textual input files used by the analysis.
 
-## Expected structure after extraction
-
-Extract `data/raw/data.rar` into the `data/` directory so that the repository contains:
+## Expected structure
 
 ```text
 data/
@@ -20,19 +18,46 @@ data/
 ├── gemini10.txt
 ├── gemini20.txt
 ├── gemini30.txt
-├── grok10.txt
-├── grok20.txt
-├── grok30.txt
 ├── mistral10.txt
 ├── mistral20.txt
 ├── mistral30.txt
+├── grok10.txt
+├── grok20.txt
+├── grok30.txt
 └── students/
-    ├── UE1_partiel-*.txt
+    ├── E01.txt
+    ├── E02.txt
+    ├── E03.txt
     └── ...
 ```
 
-The script expects student files to be located in `data/students/` and LLM reference answers to be named as `<model><n>.txt`, for example `chatgpt10.txt` or `claude30.txt`.
+The script expects each file to contain four blocks labelled `R1`, `R2`, `R3`, and `R4`.
 
-## Privacy note
+## LLM answer files
 
-Student names are anonymized by the analysis script into `E01`, `E02`, etc. Special seeded or test entries such as `META`, `ALIBABA`, `IBM`, `KIMI`, and `CHEAT` are intentionally preserved in the figures and output tables.
+The LLM files can contain one or several answer variants. If variants are labelled as `COPIE A`, `COPIE B`, etc., the script automatically splits them into separate reference answers.
+
+## Student answer files
+
+Student files should be anonymized before public release. Recommended file names are:
+
+```text
+E01.txt
+E02.txt
+E03.txt
+...
+```
+
+Seeded or test names such as `META`, `ALIBABA`, `IBM`, `KIMI`, or `CHEAT` can be preserved when they correspond to artificial controls rather than real students.
+
+## Files that should not be committed
+
+Do not publish the anonymization correspondence table:
+
+```text
+student_anonymization_map.csv
+```
+
+This file is generated in the output directory and is ignored by Git.
+
+Compressed archives such as `.rar` or `.zip` are also ignored by default. Extract the anonymized `.txt` files instead.
