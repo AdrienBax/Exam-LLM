@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+data/output*/
+
+# Optional extracted raw data duplicates
+# Keep the distributed raw archive, but avoid committing generated/extracted temporary copies twice.
+*.tmp

@@ -1,0 +1,9 @@
+name: ai-exam-llm-proximity
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
