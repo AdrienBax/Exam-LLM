@@ -1,0 +1,47 @@
+R1
+
+La spécificité de la Terre par rapport à Vénus et Mars dans la stabilité de l’eau
+L’eau liquide est un indicateur essentiel de l’habitabilitée d’une planète. Dans le système solaire interne, seule la Terre arrive à garder l’eau sous ses trois formes — glace, liquide et vapeur — sur le long terme. Ce fait vient d’un ensemble de facteurs : sa position, sa masse et la dynamique particulière de son atmosphére.
+Située à une unité astronomique du Soleil, la Terre reçoit un flux d’environ 1360 W/m². Une fois pris en compte l’albédo et l’effet de serre naturel, cette énergie permet une température moyenne de surface qui garde l’eau stable. Son atmosphére — environ 78 % d’azote, 21 % d’oxygène et un peu de CO? — exerce une pression proche de 1 bar, ce qui suffit à maintenir le cycle de l’eau actif.
+Vénus, plus proche du Soleil (0,72 UA), reçoit presque deux fois plus de rayonnement. Avec une atmosphère étouffante (plus de 96 % de CO?, pression d’environ 92 bars), elle a connu un effet de serre incontrôlé : toute l’eau s’est évaporée, puis les molécules ont été détruites par photodissociation. L’hydrogéne s’est échappé dans l’espace, laissant une planéte séche et brulante.
+À l’inverse, Mars, plus éloignée (1,52 UA), reçoit trop peu d’énergie. Sa pression de surface (environ 6 mbar) est si faible que l’eau s’y sublime directement. Les traces d’anciens lits fluviaux montrent qu’il y a eu de l’eau liquide, mais seulement lors d’épisodes courts, liés à des dégazages de gaz à effet de serre.
+La Terre, elle, reste stable grâce à un équilibre interne : la tectonique recycle le CO? atmosphérique par le cycle silicate–carbonate. Le volcanisme relache du CO?, pendant que l’altération des roches en consomme. Ce systéme agit comme un thermostat naturel, maintenant la température sur le long terme.
+Malgré un Soleil autrefois 30 % moins lumineux, la Terre a garder ses océans grâce à une atmosphére plus riche en gaz à effet de serre (CO?, CH?, N?O). C’est ce qu’on appelle le « paradoxe du jeune Soleil faible ».
+En résumé, la Terre se trouve dans une étroite “fenétre” de stabilité où pression, température et composition atmosphérique permettent les trois états de l’eau. Vénus a dépassé le seuil supérieur de l’effet de serre, Mars est en dessous du seuil de condensation. La Terre, elle, est restée au bon endroit. 
+
+
+R2
+
+Influence de la tectonique sur le climat
+La tectonique des plaques influence le climat bien au delà du simple déplacement des continents. Elle agit sur la composition de l’atmosphére et la température globale à travers plusieurs boucles de rétroaction.
+1. Dégazage et volcanisme.
+Les dorsales et arcs volcaniques libérent du CO?, du SO? et de la vapeur d’eau. Quand l’activité tectonique est forte, le dégazage augmente, et donc l’effet de serre aussi. Au Crétacé supérieur, d’immenses plateaux basaltiques (comme les Trapps du Deccan) ont provoqué un réchauffement global marqué : jusqu’à +8 °C et disparition des calottes polaires.
+2. Altération et piégeage du carbone.
+L’érosion des roches consomme du CO? et forme des carbonates dans les océans. Ce processus dépend du relief, du climat et de la surface continentale. Quand les continents se soulévent ou se fragmentent, l’altération s’intensifie, ce qui fait baisser le CO?. À l’inverse, pendant la période de la Pangée, la faible surface continentale exposée limitait l’altération et favorisait un climat chaud et sec.
+3. Circulation océanique.
+Le déplacement des plaques modifie la géographie des océans, et donc la répartition de la chaleur. L’ouverture du passage de Drake (entre l’Amérique du Sud et l’Antartique) a permis la mise en place du courant circumpolaire antarctique, isolant le continent et déclenchant sa glaciation. Une simple modification géographique peut donc changer tout le climat mondial.
+4. Couplage avec la biosphére.
+L’apparition des plantes vasculaires au Dévonien, sur des continents récemment émergés, a augmenté l’altération chimique et réduit le CO?, entraînant les glaciations du Carbonifére.
+Sur des millions d’années, ces processus forment un systéme d’équilibre : le “thermostat géologique”. Quand la Terre se réchauffe, l’altération s’accélére et consomme plus de CO? ; quand elle se refroidie, le volcanisme reprend le dessus et réinjecte du CO? dans l’atmosphére.
+
+
+R3
+
+Rupture de Rodinia et glaciations du Néoprotérozoïque
+La dislocation du supercontinent Rodinia, il y a environ 750 millions d’années, montre bien le lien entre tectonique et climat. Cet événement a précédé les glaciations “globales” du Néoprotérozoïque.
+La fragmentation a créé de larges marges continentales et accru le volcanisme océanique. L’altération des nouvelles surfaces a consommé beaucoup de CO?, tandis que les continents se trouvaient prés de l’équateur, ce qui a accentué l’érosion et les pluies. Résultat : une chute rapide du CO? atmosphérique et un refroidissement général.
+En parallèle, l’albédo a augmenté avec l’extension de la glace, amplifiant encore le refroidissement — une boucle positive qui a mené à une quasi-glaciation totale. Les dépots de diamictites et de carbonates de déglaciation retrouvés sur tous les continents en sont la preuve.
+La sortie de ces glaciations a été provoquée par le volcanisme persistant : le CO? a continué de s’accumuler alors que les puits étaient gelés. Une fois la concentration devenue trés élevée, l’effet de serre a causé un réchauffement brutal et la fonte des glaces. Les carbonates épais formés juste aprés marquent cette transition.
+Rodinia montre donc le double rôle de la tectonique : elle peut refroidir la Terre par altération et la réchauffer ensuite via le dégazage prolongé. Le climat bascule ainsi entre états froids et chauds selon le rythme imposé par la géodynamique.
+
+
+R4
+
+Instabilité d’une glaciation globale
+Une glaciation totale bouleverse les équilibres énergétiques et chimiques de la planéte.
+Quand toute la surface est gelée, l’albédo augmente et la Terre absorbe moins d’énergie solaire. Mais surtout, l’altération s’arréte : les roches ne consomment plus de CO?, alors que le volcanisme continue d’en émettre. Ce gaz s’accumule lentement, et aprés un certain seuil, l’effet de serre devient assez fort pour faire fondre la glace.
+Cette déglaciation est rapide : en quelques millions d’années, les températures dépassent 40 °C, les calottes fondent et d’épais dépots carbonatés se forment.
+De plus, la dynamique interne de la Terre empéche un état stable. Les volcans restent actifs, et les variations orbitales changent la quantité d’énergie solaire reçue. Ces deux facteurs créent de la variabilité qui rend impossible une glaciation permanente.
+Ainsi, les “Terres boule de neige” sont des épisodes extrémes mais temporaires. Sur le long terme, le thermostat géologique raméne toujours la planéte vers un climat tempéré, favorable à la présence d’eau liquide.
+
+

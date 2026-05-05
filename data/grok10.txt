@@ -1,0 +1,133 @@
+
+### Étudiant 1 – Style scientifique approfondi  
+R1  
+La présence simultanée de l’eau sous ses trois phases constitue l’une des caractéristiques les plus remarquables de la Terre par rapport à ses voisines. Grâce à une température moyenne de surface stable autour de 15 °C, maintenue par un effet de serre modéré et une atmosphère dense, l’eau circule activement : elle est liquide dans les océans et les continents, solide sous forme de calottes polaires, glaciers et neige en haute montagne, et gazeuse dans l’atmosphère où elle joue un rôle central dans le cycle hydrologique et la régulation thermique. Vénus, située plus près du Soleil, a subi un emballement catastrophique de l’effet de serre qui a porté sa température à environ 460 °C ; toute son eau primitive a été vaporisée, puis photodissociée par le rayonnement ultraviolet intense, l’hydrogène s’étant échappé dans l’espace, ne laissant qu’une atmosphère dominée par le CO₂ avec des traces infimes de vapeur d’eau. Mars, à l’inverse, trop éloignée et dotée d’une atmosphère très ténue, présente une température moyenne de -53 °C : l’eau y est majoritairement piégée sous forme de glace aux pôles et dans le pergélisol, avec seulement une faible quantité de vapeur d’eau atmosphérique et de rares manifestations temporaires de liquide lors d’événements saisonniers exceptionnels. Ces contrastes soulignent l’importance critique de la distance au Soleil, de la taille planétaire et des mécanismes géologiques de régulation à long terme.  
+
+R2  
+Si la dérive des continents selon Wegener modifie directement les températures par le positionnement latitudinal, la tectonique des plaques exerce une influence bien plus profonde et variée sur le climat via plusieurs processus interconnectés. Le volcanisme associé aux zones de subduction et aux dorsales médio-océaniques libère continuellement du CO₂, renforçant l’effet de serre et favorisant un réchauffement global. À l’opposé, la surrection de grandes chaînes de montagnes accélère considérablement l’altération chimique des roches silicatées, qui réagit avec le CO₂ dissous dans l’eau pour former des carbonates stables stockés dans les sédiments océaniques, constituant ainsi un puissant mécanisme de refroidissement à long terme. Par ailleurs, les mouvements tectoniques modifient la configuration des bassins océaniques et des passages marins, altérant la circulation thermohaline et la distribution de chaleur entre équateur et pôles. Ces processus ne sont pas constants dans le temps : lors de la formation d’un supercontinent, le volcanisme diminue et l’érosion des reliefs peut s’intensifier ; lors des phases de fragmentation, les épanchements basaltiques massifs augmentent fortement les émissions de CO₂. Sur des dizaines de millions d’années, cet ensemble forme un thermostat géologique qui stabilise le climat terrestre.  
+
+R3  
+Un exemple particulièrement éclairant est la collision entre la plaque indienne et la plaque eurasienne, survenue il y a environ 50 à 60 millions d’années, qui a entraîné la surrection spectaculaire de l’Himalaya et du plateau tibétain. Cette transformation paléogéographique majeure a d’abord modifié profondément la circulation atmosphérique en renforçant le système de mousson asiatique, avec des précipitations beaucoup plus abondantes sur le flanc sud de la chaîne. Ces pluies intenses ont accéléré à la fois l’érosion mécanique et l’altération chimique des roches silicatées exposées. Le résultat a été une consommation massive de CO₂ atmosphérique, progressivement piégé sous forme de carbonates dans les sédiments des océans Indien et Pacifique. Ce drawdown de CO₂ a contribué de manière significative au refroidissement global du Cénozoïque tardif, créant les conditions favorables à l’établissement des calottes glaciaires et aux cycles glaciaires-interglaciaires du Quaternaire. Ainsi, la tectonique a agi ici à la fois comme un modificateur topographique et comme un régulateur géochimique du cycle du carbone.  
+
+R4  
+Une glaciation globale, ou « Terre boule de neige », représente un état intrinsèquement instable à l’échelle de dizaines de millions d’années en raison du déséquilibre qu’elle crée dans le cycle du carbone. Lorsque la glace recouvre la quasi-totalité des continents et des océans, l’altération chimique des roches silicatées – principal puits de CO₂ à long terme – s’interrompt presque complètement, car les réactions nécessitent de l’eau liquide en contact avec les minéraux. Cependant, l’activité volcanique liée à la tectonique des plaques ne s’arrête pas et continue d’injecter du CO₂ dans l’atmosphère à un rythme relativement constant. Ce gaz s’accumule progressivement, renforçant l’effet de serre jusqu’à atteindre un seuil critique qui provoque un réchauffement rapide et une fonte massive des glaces. Une fois amorcée, cette déglaciation est amplifiée par la diminution brutale de l’albédo planétaire. Les archives sédimentaires et géochimiques confirment que tous les épisodes connus de Terre boule de neige se sont terminés par des transitions brutales vers des conditions beaucoup plus chaudes.  
+
+### Étudiant 2 – Style fluide et explicatif  
+R1  
+Sur Terre, l’eau existe en même temps sous forme liquide, solide et gazeuse grâce à un équilibre thermique exceptionnel. Avec une température moyenne de 15 °C, les océans restent liquides, les régions polaires et montagneuses accumulent de la glace, et la vapeur d’eau circule dans l’atmosphère en participant au cycle des précipitations. Vénus a connu un destin très différent : trop proche du Soleil, son effet de serre s’est emballé, faisant évaporer toute son eau qui a ensuite été détruite par les rayons ultraviolets. Mars, plus froide et à l’atmosphère très fine, garde presque toute son eau gelée aux pôles ou dans le sol, avec seulement quelques traces de vapeur et de rares ruisseaux temporaires. Cette capacité unique de la Terre à maintenir l’eau liquide est essentielle à la vie.  
+
+R2  
+La tectonique des plaques agit sur le climat de plusieurs façons complémentaires. Les volcans rejettent du CO₂ qui réchauffe la planète, tandis que les nouvelles montagnes favorisent l’altération des roches qui capture ce CO₂ et refroidit le climat. Les mouvements des plaques modifient aussi les océans et leurs courants, changeant la façon dont la chaleur est transportée vers les pôles. Ces effets varient selon les époques géologiques : quand les continents se regroupent en supercontinent, il y a moins de volcans ; quand ils se séparent, le volcanisme augmente fortement. Ce système complexe agit comme un régulateur naturel sur de très longues périodes.  
+
+R3  
+La formation de l’Himalaya suite à la collision de l’Inde avec l’Asie il y a 50 millions d’années est un excellent exemple. Ces montagnes immenses ont modifié les vents et renforcé la mousson, apportant beaucoup plus de pluie. Cette humidité accrue a accéléré l’érosion et l’altération chimique des roches, qui ont alors consommé une grande quantité de CO₂ atmosphérique. Ce CO₂ piégé dans les océans a contribué à un refroidissement progressif de la planète, préparant le terrain pour les glaciations du Quaternaire. La tectonique a donc directement influencé le climat en changeant à la fois la géographie et la composition de l’atmosphère.  
+
+R4  
+Une Terre entièrement gelée ne peut pas rester stable longtemps. Sous la couche de glace, les roches ne peuvent plus s’altérer et capturer le CO₂. Pourtant les volcans continuent d’en émettre régulièrement. Le CO₂ s’accumule dans l’atmosphère, l’effet de serre augmente et finit par faire fondre la glace de manière brutale. Cette instabilité explique pourquoi aucune glaciation globale n’a duré indéfiniment dans l’histoire de la Terre.  
+
+### Étudiant 3 – Style journalistique développé  
+R1  
+La Terre est la seule des trois planètes telluriques à offrir un environnement où l’eau peut exister librement sous forme liquide, solide et gazeuse. Située à la bonne distance du Soleil, elle bénéficie d’une température moyenne agréable de 15 °C qui permet aux océans de rester liquides, aux glaciers de se former aux pôles et en montagne, et à la vapeur d’eau de nourrir un cycle hydrologique dynamique. Vénus raconte une histoire tragique : son effet de serre runaway a transformé la planète en fournaise, vaporisant toute son eau qui s’est ensuite échappée dans l’espace. Mars, elle, ressemble à un immense congélateur : l’eau y est presque entièrement gelée, avec seulement de minces filets liquides occasionnels. Cette différence fondamentale explique pourquoi seule notre planète a pu développer une biosphère complexe.  
+
+R2  
+Au-delà du simple mouvement des continents, la tectonique des plaques joue un rôle majeur dans la régulation du climat terrestre. Les volcans injectent du CO₂ dans l’atmosphère et tendent à réchauffer la planète, tandis que les chaînes de montagnes en formation accélèrent l’usure des roches et capturent ce même CO₂, favorisant le refroidissement. Les déplacements des plaques modifient également les océans et les grands courants qui redistribuent la chaleur. Selon que les continents se rassemblent ou se fragmentent, ces mécanismes s’intensifient ou s’atténuent, créant un véritable thermostat géologique qui agit sur des dizaines de millions d’années.  
+
+R3  
+Lorsque l’Inde est entrée en collision avec l’Asie il y a une cinquantaine de millions d’années, elle a fait surgir l’Himalaya et le plateau tibétain. Ce changement géographique spectaculaire a bouleversé la circulation des vents, renforcé la mousson et multiplié les précipitations. Les pluies torrentielles qui en ont résulté ont accéléré l’érosion des roches, entraînant une consommation massive de CO₂ atmosphérique. Ce processus a progressivement abaissé la concentration de ce gaz à effet de serre, contribuant au refroidissement global qui a mené aux âges glaciaires. C’est un cas remarquable où la tectonique a littéralement sculpté le climat de la planète.  
+
+R4  
+Une glaciation globale est condamnée à l’instabilité parce qu’elle crée un déséquilibre majeur dans le cycle du carbone. La glace bloque presque totalement l’altération des roches qui sert normalement à retirer le CO₂ de l’atmosphère. Pourtant, les volcans continuent de rejeter ce gaz sans interruption. Son accumulation finit par déclencher un puissant réchauffement qui fait fondre la glace en quelques milliers d’années seulement. Ce mécanisme explique pourquoi la Terre n’est jamais restée durablement dans un état de boule de neige.  
+
+### Étudiant 4 – Style pédagogique et détaillé  
+R1  
+Pour comprendre pourquoi la vie a pu se développer sur Terre, il faut regarder le rôle central de l’eau liquide. Notre planète maintient l’eau dans ses trois états grâce à une température moyenne de 15 °C parfaitement équilibrée. L’eau liquide remplit les océans, l’eau solide forme les calottes et les glaciers, et l’eau gazeuse circule dans l’atmosphère. Vénus a perdu son eau à cause d’un effet de serre extrême qui a tout vaporisé puis dissocié. Mars, trop froide, garde son eau presque entièrement gelée. Cette capacité unique de la Terre à conserver de l’eau liquide est la clé de son habitabilité.  
+
+R2  
+La tectonique des plaques influence le climat de plusieurs manières importantes. D’abord par le volcanisme qui libère du CO₂ et réchauffe l’atmosphère. Ensuite par la création de montagnes qui accélèrent l’altération des roches et capturent le CO₂, provoquant un refroidissement. Enfin, en modifiant la forme des océans et la circulation des courants marins. Ces processus changent selon les périodes géologiques : plus de volcans quand les continents se séparent, moins quand ils forment un supercontinent.  
+
+R3  
+L’exemple le plus clair est la naissance de l’Himalaya il y a 50 millions d’années. La collision des plaques a fait monter ces montagnes très haut, renforçant la mousson et apportant beaucoup plus de pluie. Cette humidité a accéléré l’usure des roches, qui ont alors consommé énormément de CO₂. Le CO₂ ainsi retiré de l’atmosphère a contribué au refroidissement de la planète et à l’arrivée des glaciations.  
+
+R4  
+Une glaciation globale ne peut pas durer parce que la glace empêche les roches de capturer le CO₂ par altération. Les volcans, eux, continuent d’en produire. Le CO₂ s’accumule, l’effet de serre augmente et finit par faire fondre toute la glace très rapidement. C’est pourquoi cet état extrême est toujours temporaire à l’échelle géologique.  
+
+### Étudiant 5 – Style analytique et nuancé  
+R1  
+La Terre se différencie nettement de Vénus et Mars par son aptitude à maintenir l’eau liquide à grande échelle, condition sine qua non pour le développement de la vie. Sa température moyenne de surface, stabilisée autour de 15 °C, permet à l’eau d’être présente simultanément sous forme liquide dans les océans, solide aux pôles et en montagne, et gazeuse dans l’atmosphère. Vénus a subi un runaway greenhouse effect qui a éliminé toute son eau primitive. Mars, avec son atmosphère peu dense, présente un bilan thermique trop froid, piégeant l’eau majoritairement sous forme de glace. Ces différences résultent de facteurs orbitaux, atmosphériques et géologiques combinés.  
+
+R2  
+Outre l’effet direct de la position continentale, la tectonique régule le climat via le cycle du carbone et la circulation océanique. Le volcanisme constitue une source continue de CO₂, tandis que l’altération des silicates en contexte montagneux agit comme un puits majeur. La reconfiguration des bassins océaniques modifie les courants et le transport de chaleur. Ces mécanismes présentent une forte variabilité temporelle liée à la dynamique des plaques et à la formation ou dislocation des supercontinents.  
+
+R3  
+La surrection de l’Himalaya suite à la collision indo-asiatique (~50 Ma) constitue un cas d’école. Elle a modifié la circulation atmosphérique, intensifié la mousson et accéléré l’érosion chimique, entraînant un drawdown significatif de CO₂. Ce processus a joué un rôle important dans le refroidissement cénozoïque et la mise en place des conditions glaciaires quaternaires.  
+
+R4  
+La glaciation globale est instable car elle supprime le principal mécanisme de retrait du CO₂ (l’altération) tout en maintenant les émissions volcaniques. L’accumulation progressive de CO₂ conduit inévitablement à un réchauffement et à une déglaciation rapide, souvent amplifiée par la rétroaction albédo. Les données paléoclimatiques montrent que cet état n’a jamais été durable.  
+
+Voici 5 nouvelles versions des réponses, imaginées pour 5 étudiants différents en master de climatologie et journalisme. Chaque étudiant intègre des informations plus ou moins longues tirées de leurs notes de cours, lectures personnelles ou recherches complémentaires (par exemple : habitabilité passée de Vénus, rôle précis de l’altération tropicale, débats sur le drawdown de CO₂ par l’Himalaya, ou mécanismes de la Terre boule de neige).  
+
+
+### Étudiant 1 – Style scientifique rigoureux, avec infos détaillées sur l’habitabilité passée  
+R1  
+La Terre se distingue de Vénus et Mars par sa capacité à maintenir l’eau simultanément sous forme gazeuse, liquide et solide, grâce à une température moyenne de surface stable autour de 15 °C et à un effet de serre équilibré. Ce cycle hydrologique actif permet l’existence d’océans liquides, de glaciers polaires et de vapeur d’eau atmosphérique. Des modèles climatiques récents suggèrent que Vénus aurait pu posséder un océan superficiel et des températures habitables pendant jusqu’à 2 milliards d’années au début de son histoire, avant qu’un effet de serre runaway ne vaporise toute son eau, photodissociée par les UV avec perte d’hydrogène dans l’espace. Mars, quant à elle, a connu des conditions clémentes avec eau liquide pendant environ 1,5 milliard d’années, mais sa faible gravité et la perte progressive de son atmosphère l’ont rendue trop froide, piégeant l’eau sous forme de glace polaire et de pergélisol avec seulement des écoulements temporaires. Ces contrastes mettent en évidence le rôle critique de la distance au Soleil, de la taille planétaire et des processus de régulation géologique à long terme pour préserver l’eau liquide indispensable à la vie.  
+
+R2  
+Au-delà du déplacement latitudinal des continents, la tectonique influence le climat via le cycle du carbone et la circulation océanique. Le volcanisme aux dorsales et zones de subduction libère du CO₂, tandis que la surrection de reliefs accélère l’altération chimique des silicates, consommant du CO₂ pour former des carbonates. Les mouvements des plaques modifient aussi les courants marins, redistribuant la chaleur. Ces processus varient fortement dans le temps : les phases de rifting augmentent les émissions de CO₂ par fissuration crustale, tandis que la formation de supercontinents réduit le volcanisme mais peut exposer plus de roches à l’érosion. Des études montrent que les vitesses variables des plaques ont contrôlé les transitions entre climats de serre et de glace sur des dizaines de millions d’années, agissant comme un thermostat géologique complexe.  
+
+R3  
+La collision Inde-Eurasie il y a environ 50-60 millions d’années, responsable de la surrection de l’Himalaya et du plateau tibétain, illustre le lien étroit entre tectonique et climat. Cette orogenèse a renforcé la mousson asiatique, augmentant les précipitations et l’érosion. L’altération accélérée des silicates a entraîné un drawdown significatif de CO₂ atmosphérique, stocké dans les sédiments océaniques. Bien que certains modèles récents relativisent l’ampleur exacte de ce piégeage par rapport aux émissions magmatiques initiales de la collision, l’ensemble a contribué au refroidissement cénozoïque et à l’installation des glaciations quaternaires. La tectonique a ainsi modifié à la fois la topographie, la circulation atmosphérique et le bilan carbone global.  
+
+R4  
+Une glaciation globale (« Terre boule de neige ») est instable sur des dizaines de millions d’années car elle bloque l’altération chimique des silicates – principal puits de CO₂ – tout en maintenant les émissions volcaniques constantes. Le CO₂ s’accumule progressivement dans l’atmosphère, renforçant l’effet de serre jusqu’à déclencher un réchauffement brutal et une fonte rapide des glaces, amplifiée par la baisse d’albédo. Les archives géologiques confirment que tous les épisodes connus se sont terminés par des déglaciations spectaculaires, soulignant l’impossibilité d’un état glaciaire permanent sur notre planète.  
+
+### Étudiant 2 – Style fluide et pédagogique, avec infos personnelles sur le cycle du carbone  
+R1  
+Ce qui rend la Terre unique, c’est qu’elle garde l’eau sous ses trois phases en même temps grâce à sa position idéale dans la zone habitable. Avec une température moyenne de 15 °C, on a des océans liquides, de la glace aux pôles et en montagne, et de la vapeur d’eau qui nourrit les nuages et les pluies. Vénus était peut-être habitable avec des océans pendant des centaines de millions d’années, mais son effet de serre s’est emballé et a tout fait évaporer. Mars a eu de l’eau liquide pendant plus d’un milliard d’années au début, mais elle a perdu son atmosphère et reste aujourd’hui un monde gelé avec seulement un peu de glace et des traces de vapeur. C’est vraiment la combinaison distance au Soleil + atmosphère + régulation géologique qui fait toute la différence.  
+
+R2  
+La tectonique ne se limite pas à bouger les continents. Elle contrôle le climat par le volcanisme qui rejette du CO₂ (réchauffement) et par la création de montagnes qui accélèrent l’altération des roches et capturent ce CO₂ (refroidissement). Elle change aussi la forme des océans et les grands courants qui transportent la chaleur. Selon les époques, quand les plaques s’écartent vite, il y a plus d’émissions de CO₂ par les dorsales ; quand elles se regroupent, l’érosion peut dominer. Dans mes notes, j’ai vu que ces variations expliquent en grande partie les transitions entre périodes chaudes et froides sur des dizaines de millions d’années.  
+
+R3  
+Un très bon exemple est la collision de l’Inde avec l’Asie qui a fait naître l’Himalaya. Ces montagnes ont changé les vents, renforcé la mousson et apporté énormément de pluie. Résultat : plus d’érosion et d’altération chimique des roches, qui ont consommé beaucoup de CO₂ atmosphérique. Même si des études récentes discutent de l’ampleur exacte par rapport aux émissions de la collision elle-même, ce processus a clairement contribué au refroidissement progressif de la Terre et à l’arrivée des âges glaciaires.  
+
+R4  
+Une Terre entièrement gelée ne peut pas durer longtemps. La glace empêche les roches de capturer le CO₂, mais les volcans continuent d’en rejeter. Le CO₂ s’accumule, l’effet de serre augmente et finit par faire fondre tout le manteau de glace très rapidement. C’est pour ça que toutes les glaciations globales du passé ont été instables et se sont terminées brutalement.  
+
+### Étudiant 3 – Style journalistique vivant, avec infos sur l’altération tropicale  
+R1  
+Imaginez trois planètes sœurs au début du Système solaire : toutes les trois avaient probablement de l’eau liquide. Aujourd’hui, seule la Terre la conserve sous ses trois formes grâce à un équilibre parfait. Vénus est devenue une fournaise où l’eau a disparu il y a longtemps ; Mars est un désert gelé où l’eau reste piégée dans la glace. La différence vient de la distance au Soleil, mais aussi de la capacité de la Terre à réguler son atmosphère grâce à la tectonique et au cycle du carbone.  
+
+R2  
+La tectonique influence le climat de manière très variée. Les volcans rejettent du CO₂, les montagnes en formation accélèrent l’altération des roches qui en capturent, et les déplacements des plaques changent les courants océaniques. Des recherches montrent que l’altération est particulièrement efficace sous climat tropical humide : quand des roches mafiques sont exposées près de l’équateur, elles peuvent retirer énormément de CO₂. Ces mécanismes s’intensifient ou s’atténuent selon que les continents se séparent ou se regroupent, formant un thermostat naturel sur le très long terme.  
+
+R3  
+La surrection de l’Himalaya après la collision Inde-Asie est un cas fascinant. Ces montagnes ont boosté la mousson, multiplié les pluies et accéléré l’érosion. L’altération chimique qui en a résulté a consommé du CO₂, contribuant au refroidissement global du Cénozoïque. Certains scientifiques soulignent que l’exposition de roches en basse latitude a joué un rôle majeur dans ce drawdown.  
+
+R4  
+Une glaciation globale est instable parce que la glace bloque l’altération des roches tout en laissant les volcans émettre du CO₂. Ce gaz s’accumule jusqu’à créer un super-effet de serre qui fait fondre la planète en quelques milliers d’années. Les archives montrent que cet état extrême n’a jamais pu durer indéfiniment.  
+
+### Étudiant 4 – Style synthétique avec infos précises sur les mécanismes  
+R1  
+La Terre maintient l’eau liquide grâce à sa température moyenne de 15 °C et son atmosphère régulatrice, permettant un cycle complet : liquide dans les océans, solide aux pôles, gazeuse dans l’air. Vénus a perdu son eau via un runaway greenhouse effect après une phase potentiellement habitable. Mars a connu de l’eau liquide pendant plus d’un milliard d’années avant de perdre son atmosphère et de geler.  
+
+R2  
+La tectonique régule le climat par émissions volcaniques de CO₂, altération accélérée des silicates en montagne (refroidissement) et modification des courants océaniques. Ces processus varient avec la vitesse des plaques et la formation/dislocation des supercontinents sur des échelles de dizaines de millions d’années.  
+
+R3  
+La collision indo-eurasienne (~50 Ma) a créé l’Himalaya, renforcé la mousson et accéléré l’altération, entraînant un drawdown de CO₂ et un refroidissement global favorisant les glaciations quaternaires.  
+
+R4  
+La glaciation globale bloque l’altération (puits de CO₂) tout en maintenant les émissions volcaniques. L’accumulation de CO₂ provoque inévitablement un réchauffement et une déglaciation rapide, rendant cet état instable à long terme.  
+
+### Étudiant 5 – Style analytique et nuancé, avec infos sur les débats récents  
+R1  
+Contrairement à Vénus et Mars, la Terre bénéficie d’un équilibre qui permet à l’eau d’exister sous ses trois phases. Des modèles indiquent que Vénus et Mars ont eu des conditions plus clémentes dans leur jeunesse, mais ont divergé à cause de l’effet de serre runaway (Vénus) ou de la perte d’atmosphère (Mars). Seule la Terre a conservé un cycle hydrologique actif grâce à sa taille, sa distance au Soleil et ses mécanismes de régulation.  
+
+R2  
+La tectonique agit via le volcanisme (source de CO₂), l’altération des silicates en contexte orogénique (puits de CO₂) et la reconfiguration des bassins océaniques. Des études récentes soulignent que le rifting continental peut être une source importante de CO₂, tandis que l’altération tropicale de roches mafiques amplifie le refroidissement. Ces processus présentent une forte variabilité temporelle liée à la dynamique des plaques.  
+
+R3  
+La formation de l’Himalaya via la collision Inde-Eurasie a modifié la circulation atmosphérique et accéléré l’altération, contribuant à un drawdown de CO₂. Cependant, des travaux récents montrent que les émissions magmatiques liées à la collision ont aussi joué un rôle important dans les variations de CO₂ au Cénozoïque, avant que l’érosion ne domine.  
+
+R4  
+Une Terre boule de neige est instable car elle supprime le principal mécanisme de retrait du CO₂ (l’altération) tout en maintenant les émissions volcaniques. L’accumulation de CO₂ conduit à un réchauffement brutal, souvent amplifié par la rétroaction albédo. Cet état extrême n’a jamais été durable dans l’histoire géologique de la Terre.  

@@ -1,0 +1,483 @@
+
+
+### Étudiant 1 (réponses structurées, assez académiques)
+
+R1
+La Terre se distingue de Vénus et Mars par une combinaison unique de distance au Soleil, pression atmosphérique et composition chimique. Sur Terre, ces conditions permettent la coexistence des trois phases de l’eau, notamment l’eau liquide stable en surface. Vénus, trop proche du Soleil, subit un effet de serre extrême qui maintient l’eau sous forme de vapeur, voire l’a dissociée. Mars, à l’inverse, a une atmosphère trop ténue pour maintenir de l’eau liquide durablement, ce qui favorise surtout la glace et la sublimation.
+
+R2
+La tectonique influence le climat via le cycle du carbone à long terme, notamment par l’altération des silicates et le dégazage volcanique. L’érosion des reliefs consomme du CO₂, tandis que le volcanisme en relâche dans l’atmosphère. La configuration des continents modifie aussi la circulation océanique et atmosphérique, affectant la redistribution de chaleur. Ces processus varient selon les phases d’orogenèse et de fragmentation des continents.
+
+R3
+Un exemple classique est la formation de l’Himalaya liée à la collision entre l’Inde et l’Eurasie. Cette orogenèse a intensifié l’altération chimique des roches, entraînant une diminution du CO₂ atmosphérique. Cela a contribué à un refroidissement global et au développement des glaciations du Cénozoïque. Ainsi, la tectonique agit à la fois sur les flux de carbone et sur la topographie, modifiant profondément le climat.
+
+R4
+Une glaciation globale est instable car elle entraîne des rétroactions positives et négatives. L’albédo élevé de la glace favorise le refroidissement, mais le piégeage du CO₂ par l’altération diminue fortement sous glace. Le CO₂ volcanique s’accumule alors dans l’atmosphère, renforçant l’effet de serre. À long terme, cela provoque un réchauffement suffisant pour faire fondre les glaces.
+
+---
+
+### Étudiant 2 (style plus narratif, vulgarisation journalistique)
+
+R1
+Si la Terre est habitable, c’est parce qu’elle est “juste au bon endroit”. Contrairement à Vénus, qui est devenue une sorte d’enfer brûlant avec une atmosphère saturée en gaz à effet de serre, la Terre garde une température compatible avec l’eau liquide. Mars, elle, est trop froide et son atmosphère est trop fine pour retenir la chaleur. Résultat : la Terre est la seule où l’eau circule librement entre vapeur, liquide et glace.
+
+R2
+La tectonique joue un rôle clé dans la régulation du climat, presque comme un thermostat géologique. Les volcans injectent du CO₂ dans l’atmosphère, tandis que l’érosion des montagnes le retire progressivement. En parallèle, la disposition des continents influence les courants marins, qui redistribuent la chaleur. Ces mécanismes évoluent sur des millions d’années, ce qui explique les grandes variations climatiques du passé.
+
+R3
+La fermeture de l’isthme de Panama est un bon exemple. Elle a modifié les courants océaniques, notamment en renforçant le Gulf Stream. Cela a contribué à humidifier les hautes latitudes et à favoriser les glaciations dans l’hémisphère nord. Ici, la tectonique agit indirectement, en modifiant la circulation océanique, avec des conséquences climatiques majeures.
+
+R4
+Une Terre entièrement glacée ne peut pas rester ainsi éternellement. Le volcanisme continue de libérer du CO₂ même sous la glace, et comme l’altération chimique est bloquée, ce gaz s’accumule. Progressivement, l’effet de serre augmente jusqu’à provoquer un dégel massif. C’est ce mécanisme qui rend les “Terres boule de neige” transitoires.
+
+---
+
+### Étudiant 3 (réponses plus courtes, un peu inégales)
+
+R1
+La Terre a une atmosphère suffisamment dense et une température moyenne modérée, ce qui permet l’eau liquide. Vénus est trop chaude à cause d’un effet de serre très fort, donc pas d’eau liquide. Mars est trop froide et son atmosphère est trop faible. Donc l’eau y est surtout sous forme de glace ou vapeur.
+
+R2
+La tectonique agit sur le climat via le CO₂. Les volcans en émettent, et l’altération en consomme. Les montagnes jouent un rôle important. Aussi, les continents changent la circulation des océans. Tout cela varie selon les périodes géologiques.
+
+R3
+La formation de la Pangée a modifié le climat global. Elle a créé un climat plus continental, avec des zones arides à l’intérieur. Cela montre que la position des continents influence fortement le climat.
+
+R4
+Une glaciation globale n’est pas stable car le CO₂ s’accumule avec le volcanisme. À un moment, cela réchauffe la planète et la glace fond. Donc ce n’est qu’un état temporaire.
+
+---
+
+### Étudiant 4 (réponses détaillées, approche “cours + réflexion”)
+
+R1
+La spécificité de la Terre repose sur un équilibre fin entre flux solaire, effet de serre et pression atmosphérique. Cet équilibre permet à l’eau d’exister simultanément sous forme de vapeur, liquide et solide, ce qui est essentiel au cycle hydrologique. Sur Vénus, la perte de l’eau liquide est liée à un emballement de l’effet de serre, tandis que sur Mars, la faible gravité et l’absence de champ magnétique ont conduit à la perte de son atmosphère. Ainsi, la Terre se situe dans une zone de stabilité unique.
+
+R2
+Au-delà de la dérive des continents, la tectonique influence le climat par le cycle géochimique du carbone. L’altération des silicates consomme du CO₂ et dépend de facteurs comme la température, les précipitations et le relief. Le volcanisme agit comme source de CO₂. La tectonique contrôle aussi l’ouverture et la fermeture des océans, modifiant la circulation thermohaline. Ces processus sont couplés et évoluent sur des échelles de temps très longues.
+
+R3
+Un exemple marquant est l’ouverture de l’océan Atlantique. Elle a modifié les circulations océaniques globales et influencé la distribution de chaleur. En parallèle, les dorsales océaniques ont augmenté le dégazage de CO₂, contribuant à des climats plus chauds au Mésozoïque. Cela illustre bien l’interaction entre tectonique, géochimie et climat.
+
+R4
+La glaciation globale est instable car elle perturbe le cycle du carbone. L’altération continentale, principal puits de CO₂, devient inefficace sous une couverture de glace. Le dégazage volcanique, lui, continue. Cette accumulation progressive de CO₂ entraîne un effet de serre croissant qui finit par inverser la glaciation. Ce mécanisme garantit une sortie du régime glaciaire.
+
+---
+
+### Étudiant 5 (style plus hésitant, mélange d’idées, “prompt pauvre”)
+
+R1
+La Terre est différente de Vénus et Mars parce qu’elle est à la bonne distance du Soleil. Du coup l’eau peut être liquide, mais aussi solide et gazeuse. Sur Vénus il fait trop chaud donc pas d’eau liquide, et sur Mars c’est trop froid et pas assez de pression. Donc l’eau ne reste pas stable.
+
+R2
+La tectonique joue sur le climat avec le CO₂ et aussi les continents. Quand il y a des montagnes, il y a plus d’érosion donc moins de CO₂. Les volcans font l’inverse. Et les océans changent aussi avec les continents.
+
+R3
+Par exemple quand des montagnes se forment, ça peut refroidir le climat. Je pense à l’Himalaya. Ça enlève du CO₂ et ça change aussi les vents et les pluies.
+
+R4
+Une glaciation globale ne dure pas car le CO₂ augmente avec le temps à cause des volcans. Après ça réchauffe la Terre et la glace fond. Donc ça ne peut pas rester comme ça très longtemps.
+
+---
+
+### Étudiant 1 (structuré, rigoureux, proche du cours)
+
+R1
+La Terre se distingue de Vénus et Mars par un ensemble de conditions physico-chimiques qui permettent la stabilité de l’eau sous ses trois phases. Sa distance au Soleil place la planète dans la zone habitable, avec un flux radiatif compatible avec l’eau liquide. De plus, une atmosphère suffisamment dense (~1 bar) et un effet de serre modéré permettent de maintenir des températures de surface autour de 15°C en moyenne. À l’inverse, Vénus a subi un emballement de l’effet de serre qui a conduit à la disparition de l’eau liquide, tandis que Mars, avec une atmosphère très ténue, ne peut maintenir que de la glace ou de la vapeur transitoire.
+
+R2
+La tectonique influence le climat via plusieurs mécanismes couplés. Le principal est le cycle du carbone à long terme : le volcanisme injecte du CO₂ dans l’atmosphère, tandis que l’altération des silicates, favorisée par les reliefs et les précipitations, en consomme. La tectonique modifie aussi la topographie et la distribution des continents, ce qui influence la circulation atmosphérique et océanique. Par exemple, l’ouverture ou la fermeture d’océans modifie les flux de chaleur. Ces processus varient sur des échelles de temps de millions d’années et participent à la régulation climatique globale.
+
+R3
+Un exemple majeur est la formation de l’Himalaya liée à la collision entre la plaque indienne et la plaque eurasienne. Cette orogenèse a fortement augmenté l’altération chimique des roches silicatées, ce qui a entraîné une consommation accrue de CO₂ atmosphérique. Cette diminution du CO₂ a contribué au refroidissement global observé au Cénozoïque et au développement des glaciations. Cela illustre le lien direct entre tectonique, cycle du carbone et climat.
+
+R4
+Une glaciation globale est intrinsèquement instable à long terme en raison du déséquilibre qu’elle induit dans le cycle du carbone. Lorsque la surface est recouverte de glace, l’altération chimique est fortement réduite, ce qui limite la consommation de CO₂. En revanche, le volcanisme continue d’en émettre. Le CO₂ s’accumule progressivement dans l’atmosphère, renforçant l’effet de serre jusqu’à provoquer un réchauffement suffisant pour faire fondre les glaces. Ce mécanisme garantit une sortie du régime glaciaire.
+
+---
+
+### Étudiant 2 (journalistique, fluide, explicatif)
+
+R1
+Ce qui rend la Terre unique, c’est cet équilibre très fragile qui permet à l’eau d’exister sous ses trois formes. Elle est située à une distance du Soleil qui évite à la fois l’évaporation totale de l’eau, comme sur Vénus, et son gel quasi permanent, comme sur Mars. L’atmosphère terrestre joue aussi un rôle clé : elle est assez dense pour maintenir une pression compatible avec l’eau liquide, mais pas trop pour éviter un effet de serre extrême. C’est ce subtil équilibre qui permet le cycle de l’eau et, donc, la vie.
+
+R2
+La tectonique agit un peu comme un régulateur climatique sur le long terme. Les volcans libèrent du CO₂, contribuant au réchauffement, tandis que l’érosion des montagnes retire ce CO₂ de l’atmosphère via l’altération chimique. En parallèle, la position des continents influence les courants océaniques, qui redistribuent la chaleur sur la planète. Ces mécanismes évoluent lentement, mais ils expliquent en grande partie les grandes transitions climatiques observées dans l’histoire de la Terre.
+
+R3
+Un exemple intéressant est la fermeture de l’isthme de Panama il y a environ 3 millions d’années. Cet événement tectonique a modifié la circulation océanique globale en séparant les océans Atlantique et Pacifique. Cela a renforcé le Gulf Stream, apportant plus d’humidité et de chaleur vers les hautes latitudes nord, ce qui a paradoxalement favorisé la formation des calottes glaciaires. C’est un bon exemple de lien indirect entre tectonique et climat.
+
+R4
+Une glaciation globale, comme les épisodes de “Terre boule de neige”, ne peut pas durer indéfiniment. Sous la glace, les processus d’altération sont bloqués, donc le CO₂ n’est plus consommé. En revanche, les volcans continuent d’en émettre. Ce CO₂ s’accumule progressivement et finit par renforcer suffisamment l’effet de serre pour provoquer un dégel massif. C’est ce qui rend ces états climatiques spectaculaires mais transitoires.
+
+---
+
+### Étudiant 3 (plus simple, mais plus complet qu’avant)
+
+R1
+La Terre a des conditions qui permettent à l’eau d’exister sous forme liquide, solide et gazeuse. Cela dépend surtout de la température et de la pression. Sur Vénus, il fait beaucoup trop chaud à cause d’un effet de serre très fort, donc l’eau ne peut pas être liquide. Sur Mars, l’atmosphère est trop faible, donc l’eau liquide n’est pas stable et elle s’évapore ou gèle rapidement. La Terre est donc dans une situation intermédiaire favorable.
+
+R2
+La tectonique influence le climat principalement avec le CO₂. Les volcans en produisent, ce qui réchauffe, tandis que l’altération des roches en consomme, ce qui refroidit. Les montagnes augmentent l’altération, donc elles peuvent faire baisser le CO₂. Aussi, la position des continents change les courants marins et donc la distribution de chaleur. Ces effets changent avec le temps selon les mouvements des plaques.
+
+R3
+Par exemple, la formation de la Pangée a modifié le climat global. Comme tous les continents étaient regroupés, il y avait de grandes zones éloignées des océans, donc plus sèches et avec des températures extrêmes. Cela montre que la disposition des continents influence fortement le climat, notamment les précipitations et les températures.
+
+R4
+Une glaciation globale n’est pas stable car le CO₂ continue d’augmenter à cause du volcanisme. Comme il n’y a plus d’altération sous la glace, ce CO₂ reste dans l’atmosphère. Au bout d’un moment, cela provoque un réchauffement et la glace fond. Donc la glaciation ne peut pas durer très longtemps à l’échelle géologique.
+
+---
+
+### Étudiant 4 (très détaillé, réflexion approfondie)
+
+R1
+La spécificité de la Terre repose sur un équilibre dynamique entre rayonnement solaire, effet de serre et propriétés atmosphériques. Cet équilibre permet à l’eau de circuler entre ses trois phases, ce qui est essentiel au cycle hydrologique et à la régulation du climat. Sur Vénus, l’effet de serre incontrôlé a conduit à une évaporation totale des océans et à la dissociation de l’eau. Sur Mars, la perte de son atmosphère, probablement liée à l’absence de champ magnétique, a empêché le maintien d’une pression suffisante pour l’eau liquide. La Terre se situe donc dans une fenêtre de stabilité exceptionnelle.
+
+R2
+La tectonique intervient dans le climat via des processus géochimiques et dynamiques. Le cycle du carbone à long terme est central : le CO₂ émis par le volcanisme est progressivement retiré par l’altération des silicates, un processus dépendant du climat lui-même. Cette rétroaction négative stabilise les températures sur le long terme. Par ailleurs, la tectonique modifie la configuration des bassins océaniques, influençant la circulation thermohaline. Les chaînes de montagnes modifient aussi la circulation atmosphérique et les régimes de précipitation, renforçant certains processus d’altération.
+
+R3
+La surrection de l’Himalaya et du plateau tibétain est un exemple emblématique. Elle a intensifié la mousson asiatique, augmentant les précipitations et donc l’altération chimique. Cette altération accrue a réduit les concentrations de CO₂ atmosphérique, contribuant au refroidissement global et à l’entrée dans les cycles glaciaires du Quaternaire. Ce cas montre bien l’interconnexion entre tectonique, climat régional et climat global.
+
+R4
+Une glaciation globale est instable car elle perturbe profondément les rétroactions du système climatique. L’augmentation de l’albédo favorise le refroidissement, mais l’arrêt de l’altération supprime un puits majeur de CO₂. Le dégazage volcanique devient alors dominant, entraînant une accumulation progressive de CO₂. Une fois un seuil critique atteint, l’effet de serre provoque un réchauffement rapide et une déglaciation. Ce mécanisme explique pourquoi les états de type “snowball Earth” sont transitoires.
+
+
+### Étudiant 5 (style plus spontané, mais enrichi)
+
+R1
+La Terre est différente de Vénus et Mars surtout parce qu’elle a les bonnes conditions de température et de pression pour l’eau liquide. Elle est à une distance du Soleil qui permet de ne pas être trop chaude ni trop froide. Sur Vénus, l’effet de serre est tellement fort que toute l’eau a disparu sous forme liquide. Sur Mars, il fait froid et l’atmosphère est trop fine, donc l’eau ne peut pas rester liquide longtemps. Sur Terre, les trois phases coexistent, ce qui permet le cycle de l’eau.
+
+R2
+La tectonique influence le climat de plusieurs façons. Les volcans émettent du CO₂, ce qui réchauffe la planète, tandis que l’érosion des montagnes consomme du CO₂, ce qui refroidit. Donc il y a un équilibre. En plus, la position des continents change la circulation des océans et de l’atmosphère, ce qui influence les climats régionaux. Ces processus changent au cours du temps avec le mouvement des plaques.
+
+R3
+Un exemple est la formation de grandes chaînes de montagnes comme l’Himalaya. Cela augmente l’érosion et donc la consommation de CO₂. En même temps, cela modifie les vents et les précipitations, par exemple avec la mousson. Donc la tectonique agit à la fois sur le climat global et régional.
+
+R4
+Une glaciation globale ne peut pas durer parce que le CO₂ s’accumule dans l’atmosphère avec le volcanisme. Comme la surface est gelée, l’altération ne fonctionne plus pour enlever ce CO₂. Petit à petit, l’effet de serre augmente et la température remonte. À un moment, la glace fond et la planète sort de la glaciation.
+
+
+
+## Étudiant 1 — très scolaire, clair, méthodique
+
+R1
+La Terre possède des conditions très particulières qui permettent la présence durable de l’eau sous ses trois phases : vapeur, liquide et glace. Elle est située à une distance du Soleil qui permet des températures modérées, et son atmosphère maintient une pression suffisante pour stabiliser l’eau liquide en surface. Sur Vénus, la température est trop élevée à cause d’un effet de serre extrême, ce qui empêche l’existence d’eau liquide. Sur Mars, au contraire, l’atmosphère est trop ténue et les températures trop basses pour maintenir durablement l’eau liquide, qui se trouve surtout sous forme de glace ou de vapeur.
+
+R2
+La tectonique influence le climat par d’autres mécanismes que la seule position des continents. Elle agit notamment sur le cycle du carbone à long terme : le volcanisme émet du CO₂ dans l’atmosphère, alors que l’altération chimique des roches continentales consomme ce CO₂. La formation de reliefs favorise cette altération, ce qui peut contribuer à refroidir le climat. De plus, l’ouverture et la fermeture des océans modifient la circulation océanique et atmosphérique, donc la redistribution de chaleur. Ces mécanismes évoluent au cours du temps géologique selon l’activité tectonique.
+
+R3
+Un exemple important est la surrection de l’Himalaya et du plateau tibétain. La collision entre l’Inde et l’Asie a créé de hauts reliefs qui ont intensifié l’érosion et l’altération chimique des silicates. Ce processus a retiré davantage de CO₂ de l’atmosphère, ce qui a contribué à un refroidissement global à long terme. En parallèle, la présence du relief a modifié les circulations atmosphériques, notamment la mousson. Cela montre que la tectonique agit à la fois sur la composition atmosphérique et sur la circulation du climat.
+
+R4
+Une glaciation globale est instable à l’échelle de dizaines de millions d’années parce qu’elle modifie le cycle du carbone. Lorsque la planète est largement recouverte de glace, l’altération chimique diminue fortement, donc le CO₂ n’est plus consommé efficacement. En revanche, le dégazage volcanique continue. Le CO₂ s’accumule alors progressivement dans l’atmosphère, renforçant l’effet de serre, jusqu’à provoquer un réchauffement et une sortie de la glaciation. Cet état ne peut donc pas être permanent.
+
+---
+
+## Étudiant 2 — style plus rédigé, un peu journalistique
+
+R1
+La Terre se trouve dans une situation assez exceptionnelle dans le Système solaire interne. Elle reçoit assez d’énergie solaire pour éviter un gel global permanent, mais pas assez pour déclencher un emballement thermique comme sur Vénus. Son atmosphère, en plus, a la bonne densité pour permettre à l’eau d’exister à la fois sous forme de vapeur dans l’air, de liquide dans les océans et les rivières, et de glace aux pôles ou en altitude. Vénus est devenue trop chaude et Mars trop froide et trop peu pressurisée : la Terre se situe entre les deux, dans une zone de stabilité beaucoup plus favorable à la vie.
+
+R2
+La tectonique agit un peu comme une machine lente qui règle le climat sur le temps long. D’un côté, les volcans et certaines zones de subduction relâchent du CO₂, ce qui tend à réchauffer le climat. De l’autre, quand des montagnes se forment, elles sont plus exposées à l’érosion et à l’altération, ce qui retire du CO₂ de l’atmosphère. La tectonique modifie aussi la forme des continents et des océans, donc les grands courants marins et atmosphériques. Comme ces phénomènes se déroulent sur des millions d’années, ils expliquent une partie importante des grands changements climatiques de l’histoire de la Terre.
+
+R3
+On peut prendre l’exemple de la fermeture de l’isthme de Panama. Cet événement tectonique a séparé davantage le Pacifique et l’Atlantique, ce qui a changé la circulation océanique mondiale. En renforçant notamment certaines circulations atlantiques, il a favorisé un transport d’humidité vers les hautes latitudes nord, ce qui a pu contribuer à l’installation de glaciations dans l’hémisphère Nord. Cet exemple est intéressant parce qu’il montre que la tectonique ne modifie pas seulement le CO₂ : elle transforme aussi l’organisation du système océan-atmosphère.
+
+R4
+Une glaciation globale n’est pas stable à très long terme parce que la Terre continue à émettre du CO₂ par le volcanisme, même lorsqu’elle est très froide. Or, si la planète est couverte de glace, les réactions d’altération chimique qui consomment habituellement ce CO₂ sont très réduites. Il se produit donc une accumulation progressive de gaz à effet de serre. À un moment, ce surplus devient assez important pour enclencher une déglaciation. En ce sens, la glaciation globale contient elle-même les conditions de sa propre fin.
+
+---
+
+## Étudiant 3 — niveau correct mais plus simple, moins raffiné
+
+R1
+La Terre a la particularité d’avoir de l’eau sous les trois formes grâce à de bonnes conditions de température et de pression. Elle n’est ni trop proche ni trop loin du Soleil, ce qui permet l’existence d’eau liquide en surface. Vénus est trop chaude à cause d’un effet de serre très fort, alors que Mars est trop froide et a une atmosphère trop faible. Sur Mars, l’eau liquide n’est pas stable longtemps. C’est donc la combinaison distance au Soleil + atmosphère qui rend la Terre spéciale.
+
+R2
+La tectonique influence aussi le climat par le CO₂. Les volcans en émettent dans l’atmosphère, tandis que les roches en consomment par altération chimique. Quand il y a des montagnes, l’érosion augmente, donc il peut y avoir plus d’altération et moins de CO₂. La tectonique change aussi la forme des continents et des océans, donc les courants marins et les climats régionaux. Tous ces effets changent selon les périodes géologiques.
+
+R3
+Un exemple est la Pangée. Quand les continents étaient réunis, cela a créé un énorme continent avec des zones intérieures très éloignées de la mer. Cela favorisait des climats plus secs et plus continentaux, avec de plus grandes amplitudes thermiques. Donc la paléogéographie peut modifier fortement le climat, même sans changer directement la quantité d’énergie reçue du Soleil. La tectonique agit donc via la disposition des terres et des mers.
+
+R4
+La glaciation globale n’est pas stable car le volcanisme continue à produire du CO₂. En même temps, si la planète est glacée, l’altération chimique est presque arrêtée, donc le CO₂ ne disparaît plus. Il s’accumule alors dans l’atmosphère et renforce l’effet de serre. Après un certain temps, cela réchauffe suffisamment la Terre pour faire fondre les glaces. La glaciation globale est donc temporaire.
+
+---
+
+## Étudiant 4 — plus analytique, plus “climatologue”
+
+R1
+La Terre est la seule des trois planètes telluriques proches à présenter une stabilité durable de l’eau liquide en surface. Cela résulte d’un équilibre entre le rayonnement solaire reçu, la composition de l’atmosphère, la pression au sol et l’intensité de l’effet de serre. Sur Vénus, l’effet de serre a conduit à des températures de surface extrêmes, incompatibles avec l’eau liquide. Sur Mars, la faible pression atmosphérique rend l’eau liquide thermodynamiquement instable, sauf peut-être de manière très transitoire. La Terre se distingue donc par le maintien simultané des trois phases de l’eau dans un système climatique actif.
+
+R2
+La tectonique contrôle une partie de la régulation climatique à très long terme via des rétroactions géochimiques. L’élévation de chaînes de montagnes accroît l’altération des silicates, qui agit comme puits de CO₂. En parallèle, les dorsales et les zones de subduction participent au dégazage interne de la Terre, qui alimente l’atmosphère en CO₂. La tectonique modifie aussi la géométrie des bassins océaniques, ce qui influence la circulation thermohaline et les échanges de chaleur entre basses et hautes latitudes. La variabilité de ces mécanismes dépend du rythme des collisions, des rifts, et de l’activité magmatique au cours du temps géologique.
+
+R3
+Un bon exemple est la mise en place du passage de Drake et l’isolement progressif de l’Antarctique. En ouvrant une circulation océanique circumpolaire, la tectonique a limité les échanges de chaleur entre l’Antarctique et les latitudes plus chaudes. Cela a favorisé le refroidissement du continent antarctique et l’installation d’une calotte glaciaire durable. En parallèle, la baisse du CO₂ atmosphérique a renforcé cette tendance. Cet exemple montre l’interaction entre tectonique, circulation océanique et climat global.
+
+R4
+À l’échelle de dizaines de millions d’années, une glaciation globale ne peut pas constituer un état d’équilibre stable, car elle bloque une partie importante des puits continentaux de CO₂. Or le dégazage mantellique se poursuit, même en contexte glaciaire intense. Il en résulte une accumulation lente mais continue du CO₂ atmosphérique, jusqu’à dépasser le seuil nécessaire pour compenser l’albédo élevé de la planète glacée. Le système bascule alors vers une déglaciation rapide. Autrement dit, la dynamique interne de la Terre finit par déstabiliser l’état glaciaire global.
+
+---
+
+## Étudiant 5 — plus spontané, moins académique, mais crédible
+
+R1
+La Terre est dans une situation intermédiaire entre Vénus et Mars. Sur Vénus, la chaleur est trop forte et l’effet de serre trop important, donc l’eau liquide ne peut pas se maintenir. Sur Mars, le problème est plutôt le froid et surtout le fait que l’atmosphère est trop fine pour garder l’eau liquide en surface. La Terre, elle, a à la fois une température moyenne correcte et une pression atmosphérique suffisante. C’est pour ça qu’on y trouve de la vapeur d’eau, des océans et de la glace.
+
+R2
+La tectonique ne fait pas que déplacer les continents : elle influence aussi le climat en profondeur. Les volcans rejettent du CO₂, alors que l’altération des roches le retire lentement de l’atmosphère. Quand de grandes chaînes de montagnes apparaissent, ce retrait peut devenir plus fort. En plus, la disposition des continents change les courants océaniques, et donc la façon dont la chaleur est transportée sur Terre. Ces effets sont lents mais très importants sur le long terme.
+
+R3
+Je choisirais l’exemple de l’Himalaya, parce qu’il montre bien plusieurs effets en même temps. La formation de cette chaîne a augmenté l’altération des roches, donc diminué le CO₂ atmosphérique, ce qui va dans le sens d’un refroidissement. Mais elle a aussi modifié la circulation atmosphérique régionale, par exemple avec la mousson. Donc la tectonique change à la fois la chimie de l’atmosphère et l’organisation des climats régionaux. C’est un bon exemple du lien étroit entre géologie et climat.
+
+R4
+Une glaciation globale n’est pas stable parce qu’elle pousse le système climatique trop loin dans une direction, mais sans pouvoir s’y maintenir indéfiniment. Sous une planète gelée, l’altération chimique devient très faible, alors que les volcans continuent à envoyer du CO₂ dans l’atmosphère. Petit à petit, ce gaz s’accumule et renforce l’effet de serre. Au bout d’un certain temps, cela finit par provoquer une fonte. Donc même une Terre presque totalement glacée finit par sortir de cet état.
+
+
+
+
+## Étudiant 1 — excellent niveau, synthétique mais solide
+
+R1
+La Terre se distingue de Vénus et Mars par la stabilité de l’eau sous ses trois phases, rendue possible par un équilibre entre distance au Soleil, pression atmosphérique et effet de serre. Sur Terre, la pression permet à l’eau liquide d’exister durablement en surface, tandis que la température moyenne reste compatible avec le maintien simultané de glace, d’eau liquide et de vapeur. Sur Vénus, l’effet de serre extrême a conduit à une surchauffe incompatible avec l’eau liquide. Sur Mars, la faible pression et les basses températures empêchent presque toujours sa stabilité en surface.
+
+R2
+La tectonique influence le climat par des mécanismes de régulation à long terme. Le volcanisme et le dégazage mantellique alimentent l’atmosphère en CO₂, alors que l’altération chimique des silicates en consomme, surtout lorsque des reliefs récents sont exposés à l’érosion. La tectonique modifie aussi la géographie des océans et des continents, donc la circulation océanique et atmosphérique. Ces différents processus évoluent à l’échelle de millions d’années et expliquent une part importante des transitions climatiques majeures de l’histoire terrestre.
+
+R3
+Un exemple classique est l’isolement progressif de l’Antarctique avec l’ouverture des passages océaniques australs. La mise en place du courant circumpolaire antarctique a limité les échanges de chaleur avec les latitudes plus basses, favorisant le refroidissement du continent. Dans le même temps, la baisse du CO₂ a renforcé cette tendance. Cet exemple montre bien que la tectonique agit à la fois sur la circulation océanique et sur le cycle du carbone, avec des conséquences climatiques globales.
+
+R4
+Une glaciation globale est instable à l’échelle de dizaines de millions d’années car l’altération continentale, principal puits de CO₂, devient très faible lorsque la surface est englacée. En revanche, le volcanisme continue d’émettre du CO₂. Ce gaz s’accumule progressivement dans l’atmosphère jusqu’à renforcer suffisamment l’effet de serre pour déclencher une déglaciation. Ainsi, même si l’albédo élevé stabilise temporairement le froid, la dynamique géologique finit par faire sortir la Terre de cet état.
+
+---
+
+## Étudiant 2 — bon niveau, style fluide et un peu journalistique
+
+R1
+La Terre occupe une position assez exceptionnelle entre deux extrêmes climatiques. Vénus est devenue une planète brûlante dominée par un effet de serre incontrôlé, alors que Mars est restée trop froide et surtout trop peu pressurisée pour maintenir durablement de l’eau liquide. La Terre, elle, combine une distance au Soleil favorable et une atmosphère suffisamment épaisse pour permettre la coexistence de vapeur d’eau, d’océans et de glaces. C’est cette coexistence qui alimente le cycle de l’eau et rend la planète habitable.
+
+R2
+La tectonique ne joue pas seulement sur la latitude des continents. Elle agit aussi comme une force lente qui contrôle en partie le thermostat climatique de la planète. Les volcans apportent du CO₂ à l’atmosphère, ce qui tend à réchauffer, tandis que l’érosion et l’altération des roches, notamment en zone de montagne, contribuent à en retirer. À cela s’ajoute la réorganisation des océans, qui change les courants marins et la manière dont la chaleur est redistribuée sur Terre. Tout cela évolue très lentement, mais avec des effets profonds.
+
+R3
+On peut prendre l’exemple de la fermeture de l’isthme de Panama. En séparant plus nettement l’Atlantique et le Pacifique, cette réorganisation tectonique a modifié les circulations océaniques globales. Cela a renforcé certains transferts de chaleur et d’humidité vers le nord de l’Atlantique, contribuant à des conditions favorables aux glaciations de l’hémisphère Nord. Cet exemple montre que la tectonique peut modifier le climat sans passer uniquement par le CO₂, mais aussi par la circulation océanique.
+
+R4
+Une glaciation globale ne peut pas durer indéfiniment parce qu’elle bloque une partie du fonctionnement habituel du cycle du carbone. Sous une planète gelée, l’altération chimique ralentit fortement, alors que les émissions volcaniques se poursuivent. Le CO₂ finit donc par s’accumuler, renforçant l’effet de serre au fil du temps. À partir d’un certain seuil, la planète se réchauffe et sort de son état glaciaire. La glaciation globale est donc spectaculaire, mais temporaire à l’échelle géologique.
+
+---
+
+## Étudiant 3 — niveau moyen correct, réponses sérieuses mais plus simples
+
+R1
+La Terre a des conditions favorables pour que l’eau existe sous forme liquide, solide et gazeuse. Cela vient surtout de sa distance au Soleil et de la présence d’une atmosphère assez dense. Sur Vénus, l’effet de serre est trop fort et les températures sont trop élevées pour garder de l’eau liquide. Sur Mars, le problème est inverse : il fait trop froid et la pression est trop faible. La Terre est donc dans une situation intermédiaire qui permet un vrai cycle de l’eau.
+
+R2
+La tectonique influence le climat par le CO₂ et par la forme de la surface terrestre. Les volcans relâchent du CO₂ dans l’atmosphère, tandis que l’altération des roches en enlève progressivement. Quand il y a formation de montagnes, l’altération peut être plus importante. De plus, la disposition des continents et des océans influence les courants marins et les vents. Ces mécanismes changent avec le temps selon les mouvements des plaques.
+
+R3
+Un exemple est la formation de l’Himalaya. Quand cette chaîne de montagnes s’est formée, l’altération des roches a augmenté, ce qui a pu faire baisser le CO₂ atmosphérique. Cela a contribué à refroidir le climat sur le long terme. En plus, cette montagne a changé la circulation atmosphérique régionale, notamment avec la mousson. On voit donc bien que tectonique et climat sont liés.
+
+R4
+La glaciation globale est instable car elle empêche une partie des mécanismes habituels de régulation. Si la Terre est très englacée, l’altération chimique diminue fortement. Comme le volcanisme continue à produire du CO₂, ce gaz finit par s’accumuler dans l’atmosphère. Cela renforce l’effet de serre et provoque un réchauffement. Donc la glaciation ne peut pas rester stable pendant des dizaines de millions d’années.
+
+---
+
+## Étudiant 4 — plus fragile, un peu confus, mais globalement dans le sujet
+
+R1
+La Terre a de l’eau sous les trois formes parce qu’elle est à la bonne distance du Soleil et qu’elle a une bonne atmosphère. Vénus est trop chaude, donc l’eau liquide ne peut pas rester, et Mars est trop froide et avec pas assez d’atmosphère. Du coup sur Mars l’eau est surtout gelée ou alors en vapeur. La Terre est un peu entre les deux, ce qui permet l’eau liquide à la surface. C’est important pour la vie car sans eau liquide la vie telle qu’on la connaît ne peut pas vraiment se développer.
+
+R2
+La tectonique joue sur le climat aussi avec les volcans et les montagnes. Les volcans ajoutent du CO₂, donc ça peut réchauffer. Les montagnes peuvent enlever du CO₂ avec l’érosion et l’altération des roches, donc ça peut refroidir. Il y a aussi le fait que les continents changent de place et ça change les océans et les vents. Ces effets ne sont pas rapides mais sur des millions d’années ils comptent beaucoup.
+
+R3
+Je prends l’exemple de la Pangée. Quand tous les continents sont regroupés, cela change le climat parce que l’intérieur du continent est loin de la mer. Donc il y a plus de sécheresse et un climat plus extrême que près des océans. Cela montre que la tectonique peut changer le climat en modifiant la géographie de la planète. Je pense qu’il y a aussi un lien avec le CO₂, mais ici c’est surtout la répartition des terres et des mers qui joue.
+
+R4
+La glaciation globale est instable parce que si tout est gelé, cela ne peut pas rester comme ça pour toujours. Les volcans continuent à fonctionner et à envoyer du CO₂ dans l’air. Comme la glace bloque beaucoup de processus d’altération, le CO₂ s’accumule plus facilement. Au bout d’un moment, l’effet de serre devient plus fort et la Terre se réchauffe. Donc la glaciation finit par s’arrêter.
+
+---
+
+## Étudiant 5 — très scolaire, propre, un peu “IA lisse”
+
+R1
+La Terre présente des conditions particulières qui permettent à l’eau d’exister sous ses trois états physiques. Sa position dans la zone habitable du Système solaire permet des températures modérées, tandis que son atmosphère assure une pression compatible avec l’eau liquide. À l’inverse, Vénus est caractérisée par un effet de serre extrême qui empêche la présence d’eau liquide en surface. Mars, quant à elle, possède une atmosphère trop ténue et des températures trop basses pour maintenir durablement cette phase liquide.
+
+R2
+La tectonique influence le climat par plusieurs processus complémentaires. D’une part, le volcanisme constitue une source de CO₂ atmosphérique. D’autre part, l’altération chimique des roches silicatées représente un puits de CO₂. La tectonique modifie également les reliefs, les bassins océaniques et la répartition des continents, ce qui influence la circulation océanique et atmosphérique. L’ensemble de ces processus varie dans le temps géologique en fonction de l’évolution des plaques.
+
+R3
+Un exemple significatif est la formation de l’Himalaya. Cette orogenèse a favorisé l’altération chimique des roches, ce qui a contribué à une baisse du CO₂ atmosphérique. Cette diminution a participé à un refroidissement global du climat. Par ailleurs, la présence d’un relief majeur a également modifié les circulations atmosphériques régionales. Cet exemple illustre donc clairement les relations entre tectonique, géochimie et climat.
+
+R4
+La glaciation globale est un phénomène instable à très long terme, car elle perturbe le cycle du carbone. Lorsque la surface terrestre est fortement englacée, l’altération chimique continentale diminue fortement. En revanche, les émissions volcaniques de CO₂ se poursuivent. Il en résulte une accumulation progressive de CO₂ dans l’atmosphère, qui renforce l’effet de serre et conduit finalement à une déglaciation. La stabilité d’une glaciation globale ne peut donc être que temporaire.
+
+
+
+
+## Étudiant 6 — très brillant, nuancé, bien articulé
+
+R1
+La Terre occupe une position remarquable entre deux trajectoires planétaires opposées incarnées par Vénus et Mars. Sur Terre, la combinaison entre distance au Soleil, pression atmosphérique et effet de serre modéré permet à l’eau de circuler entre ses trois phases, ce qui alimente un cycle hydrologique actif et stabilisateur. Vénus, avec son atmosphère très dense en CO₂, a connu un emballement de l’effet de serre qui a rendu impossible le maintien d’eau liquide. Mars, au contraire, a perdu une grande partie de son atmosphère, ce qui a abaissé la pression au point de rendre l’eau liquide très instable en surface. La spécificité terrestre tient donc moins à un seul facteur qu’à l’équilibre entre plusieurs paramètres.
+
+R2
+La tectonique régule le climat par des voies géochimiques et dynamiques. D’un côté, le dégazage volcanique alimente l’atmosphère en CO₂ ; de l’autre, l’altération des silicates, favorisée par la présence de reliefs et de précipitations, constitue un puits majeur de carbone sur le temps long. En parallèle, la réorganisation des continents et des bassins océaniques modifie la circulation thermohaline et la distribution méridienne de chaleur. Il existe donc une relation étroite entre tectonique, cycle du carbone et circulation générale. Cette relation varie dans le temps selon les épisodes de rifting, de collision et d’ouverture ou fermeture des passages océaniques.
+
+R3
+Un exemple particulièrement clair est l’isolement de l’Antarctique. L’ouverture progressive des passages de Tasmanie et de Drake a permis l’établissement d’un courant circumpolaire qui a limité les échanges de chaleur avec les latitudes plus basses. Ce changement paléogéographique a contribué au refroidissement de l’Antarctique et à la mise en place d’une glaciation durable. Toutefois, cet effet n’agit pas seul : la baisse du CO₂ atmosphérique a également joué un rôle déterminant. Cet exemple montre bien que la tectonique influence le climat à la fois par la circulation océanique et par la composition de l’atmosphère.
+
+R4
+Une glaciation globale est instable à l’échelle de dizaines de millions d’années parce qu’elle désactive une partie essentielle de la régulation climatique : l’altération continentale. Une Terre englacée réfléchit davantage le rayonnement solaire, ce qui renforce le refroidissement, mais dans le même temps l’altération devient très faible, alors que le volcanisme continue. Il en résulte une accumulation lente mais continue de CO₂ dans l’atmosphère. Une fois un certain seuil dépassé, l’effet de serre l’emporte sur l’albédo élevé et déclenche la déglaciation. La stabilité glaciaire est donc seulement apparente, car le système prépare déjà sa sortie.
+
+---
+
+## Étudiant 7 — bavard, assez riche, parfois un peu redondant
+
+R1
+La Terre a quelque chose d’assez exceptionnel par rapport à ses deux voisines directes, car elle permet la présence d’eau liquide de manière durable, ce qui est fondamental pour la vie. En effet, elle n’est ni trop proche du Soleil comme Vénus, ni trop éloignée dans ses effets climatiques comme Mars, même si la distance ne fait pas tout. Ce qui compte aussi, c’est que la Terre a une atmosphère qui maintient une pression suffisante et un effet de serre modéré. Vénus est un cas extrême de réchauffement par effet de serre, tandis que Mars possède une atmosphère trop faible pour garder l’eau liquide stable. Finalement, la Terre se situe dans une sorte de zone d’équilibre très favorable.
+
+R2
+La tectonique joue sur le climat de manière beaucoup plus large que la seule dérive des continents vers des latitudes plus chaudes ou plus froides. Elle agit par le volcanisme, qui remet du CO₂ dans l’atmosphère, mais aussi par la formation de chaînes de montagnes, qui favorisent l’érosion et l’altération chimique, donc la consommation du CO₂. En plus, lorsque les continents se déplacent, les océans changent de forme, des passages marins s’ouvrent ou se ferment, et cela modifie les courants marins. Comme ces courants transportent de la chaleur, le climat global peut être profondément transformé. Tous ces mécanismes évoluent très lentement, mais sur des millions d’années ils ont des effets énormes.
+
+R3
+Je choisirais l’exemple de la fermeture de l’isthme de Panama, parce qu’il montre bien qu’un changement géographique relativement local peut avoir des conséquences planétaires. La séparation plus nette entre Pacifique et Atlantique a changé la circulation océanique et renforcé certains transports de chaleur et d’humidité. Cela a favorisé des conditions propices aux glaciations dans l’hémisphère Nord. Donc la tectonique ne joue pas seulement en créant des montagnes ou en modifiant le CO₂, elle agit aussi sur la façon dont l’océan redistribue l’énergie. C’est une bonne illustration du fait que le climat dépend fortement de la géographie de la planète.
+
+R4
+Une glaciation globale n’est pas stable à très long terme, même si elle peut paraître auto-entretenue à cause de l’albédo de la glace. En effet, plus il y a de glace, plus la planète réfléchit l’énergie solaire, donc plus elle reste froide. Mais ce n’est pas toute l’histoire, car le volcanisme continue à émettre du CO₂. Si les continents sont recouverts de glace, l’altération chimique ralentit beaucoup, donc ce CO₂ n’est plus vraiment retiré de l’atmosphère. Il finit par s’accumuler jusqu’à réchauffer suffisamment la planète. Autrement dit, la glaciation prépare progressivement sa propre fin.
+
+---
+
+## Étudiant 8 — très concis, efficace, va à l’essentiel
+
+R1
+La Terre se distingue de Vénus et Mars car elle réunit les bonnes conditions de température et de pression pour stabiliser l’eau liquide. Vénus est trop chaude à cause d’un effet de serre extrême, et Mars a une atmosphère trop faible pour maintenir durablement l’eau liquide. Sur Terre, l’eau peut donc exister sous forme de vapeur, de liquide et de glace. C’est ce qui rend possible un cycle de l’eau complet.
+
+R2
+La tectonique influence le climat par le cycle du carbone et par la circulation océanique. Le volcanisme émet du CO₂, alors que l’altération des roches en consomme. Les mouvements des plaques changent aussi la forme des continents et des océans, ce qui modifie les courants et la répartition de la chaleur. Ces mécanismes varient sur des millions d’années.
+
+R3
+L’Himalaya est un bon exemple. Sa formation a augmenté l’altération chimique, ce qui a contribué à faire baisser le CO₂ atmosphérique et donc à refroidir le climat. En plus, cette chaîne a modifié la circulation atmosphérique asiatique. La tectonique agit donc à la fois sur la géochimie et sur la dynamique du climat.
+
+R4
+Une glaciation globale est instable car le volcanisme continue d’émettre du CO₂ pendant que l’altération, elle, diminue fortement sous la glace. Le CO₂ s’accumule donc dans l’atmosphère. À long terme, cela renforce l’effet de serre et provoque la déglaciation. L’état glaciaire global ne peut donc pas durer indéfiniment.
+
+---
+
+## Étudiant 9 — moyen appliqué, sérieux, un peu scolaire
+
+R1
+La Terre a des caractéristiques particulières qui lui permettent de conserver l’eau sous ses trois formes. Sa distance au Soleil est adaptée, et son atmosphère est assez dense pour maintenir une pression compatible avec l’eau liquide. Sur Vénus, les températures sont beaucoup trop élevées à cause d’un effet de serre très fort. Sur Mars, la température est basse et surtout la pression est trop faible. C’est donc la combinaison de plusieurs facteurs qui rend la Terre habitable.
+
+R2
+La tectonique influence les températures de surface par différents processus. Le plus important est sans doute le rôle du CO₂ : les volcans en émettent, alors que l’altération chimique des roches permet d’en retirer de l’atmosphère. La formation de montagnes peut augmenter cette altération. Par ailleurs, la position des continents et l’ouverture ou la fermeture de passages océaniques modifient la circulation océanique. Cela influence la répartition de la chaleur sur la planète.
+
+R3
+Un exemple du cours est la formation de grandes chaînes de montagnes comme l’Himalaya. Cela a eu un effet sur le climat car l’altération des roches a augmenté, ce qui a entraîné une baisse du CO₂ atmosphérique. En plus, la présence d’un relief aussi important modifie les précipitations et la circulation des vents. Cela montre que la tectonique agit à la fois sur l’atmosphère et sur la circulation climatique. Le climat dépend donc fortement de l’évolution géologique de la Terre.
+
+R4
+La glaciation globale est un phénomène instable parce qu’elle ne peut pas bloquer complètement le fonctionnement interne de la Terre. Le volcanisme continue à émettre du CO₂, alors que les mécanismes de consommation de ce CO₂ deviennent plus faibles si les continents sont englacés. Peu à peu, le CO₂ s’accumule et le réchauffement finit par l’emporter. La planète sort alors de l’état glaciaire. C’est pour cela que ces épisodes ne peuvent pas durer éternellement.
+
+---
+
+## Étudiant 10 — plus faible, avec quelques maladresses mais plausible
+
+R1
+La Terre est différente de Vénus et de Mars car elle a les bonnes conditions pour l’eau. Il y a de l’eau liquide, mais aussi de la glace et de la vapeur d’eau. Sur Vénus, il fait trop chaud et l’effet de serre est trop fort, donc l’eau liquide ne peut pas rester. Sur Mars, l’atmosphère est trop petite et il fait trop froid. Donc la Terre est la seule des trois où l’eau est vraiment stable sous plusieurs formes.
+
+R2
+La tectonique agit sur le climat aussi avec le volcanisme et les montagnes. Les volcans mettent du CO₂ dans l’air, ce qui peut réchauffer. Les montagnes font plus d’érosion et d’altération, donc cela peut enlever du CO₂. Aussi, quand les continents bougent, les mers et les océans changent, et cela modifie les courants. Tout cela agit lentement mais sur très longtemps.
+
+R3
+Par exemple, quand une grande montagne se forme, cela peut changer le climat. L’Himalaya est un bon exemple parce qu’il a sûrement fait baisser le CO₂ avec l’altération des roches. Il a aussi changé les vents et les pluies en Asie. Donc la tectonique ne change pas seulement le paysage, elle change aussi le climat. On peut dire que la paléogéographie influence directement les conditions climatiques.
+
+R4
+Une glaciation globale n’est pas stable car même si la Terre est très froide, les volcans continuent. Ils ajoutent du CO₂ dans l’atmosphère. Comme la glace bloque beaucoup l’altération, ce CO₂ part moins facilement. Alors il s’accumule et réchauffe peu à peu la planète. Finalement, la glace fond et la glaciation s’arrête.
+
+
+
+
+
+## Étudiant 6 — très brillant, nuancé, bien articulé
+
+R1
+La Terre occupe une position remarquable entre deux trajectoires planétaires opposées incarnées par Vénus et Mars. Sur Terre, la combinaison entre distance au Soleil, pression atmosphérique et effet de serre modéré permet à l’eau de circuler entre ses trois phases, ce qui alimente un cycle hydrologique actif et stabilisateur. Vénus, avec son atmosphère très dense en CO₂, a connu un emballement de l’effet de serre qui a rendu impossible le maintien d’eau liquide. Mars, au contraire, a perdu une grande partie de son atmosphère, ce qui a abaissé la pression au point de rendre l’eau liquide très instable en surface. La spécificité terrestre tient donc moins à un seul facteur qu’à l’équilibre entre plusieurs paramètres.
+
+R2
+La tectonique régule le climat par des voies géochimiques et dynamiques. D’un côté, le dégazage volcanique alimente l’atmosphère en CO₂ ; de l’autre, l’altération des silicates, favorisée par la présence de reliefs et de précipitations, constitue un puits majeur de carbone sur le temps long. En parallèle, la réorganisation des continents et des bassins océaniques modifie la circulation thermohaline et la distribution méridienne de chaleur. Il existe donc une relation étroite entre tectonique, cycle du carbone et circulation générale. Cette relation varie dans le temps selon les épisodes de rifting, de collision et d’ouverture ou fermeture des passages océaniques.
+
+R3
+Un exemple particulièrement clair est l’isolement de l’Antarctique. L’ouverture progressive des passages de Tasmanie et de Drake a permis l’établissement d’un courant circumpolaire qui a limité les échanges de chaleur avec les latitudes plus basses. Ce changement paléogéographique a contribué au refroidissement de l’Antarctique et à la mise en place d’une glaciation durable. Toutefois, cet effet n’agit pas seul : la baisse du CO₂ atmosphérique a également joué un rôle déterminant. Cet exemple montre bien que la tectonique influence le climat à la fois par la circulation océanique et par la composition de l’atmosphère.
+
+R4
+Une glaciation globale est instable à l’échelle de dizaines de millions d’années parce qu’elle désactive une partie essentielle de la régulation climatique : l’altération continentale. Une Terre englacée réfléchit davantage le rayonnement solaire, ce qui renforce le refroidissement, mais dans le même temps l’altération devient très faible, alors que le volcanisme continue. Il en résulte une accumulation lente mais continue de CO₂ dans l’atmosphère. Une fois un certain seuil dépassé, l’effet de serre l’emporte sur l’albédo élevé et déclenche la déglaciation. La stabilité glaciaire est donc seulement apparente, car le système prépare déjà sa sortie.
+
+---
+
+## Étudiant 7 — bavard, assez riche, parfois un peu redondant
+
+R1
+La Terre a quelque chose d’assez exceptionnel par rapport à ses deux voisines directes, car elle permet la présence d’eau liquide de manière durable, ce qui est fondamental pour la vie. En effet, elle n’est ni trop proche du Soleil comme Vénus, ni trop éloignée dans ses effets climatiques comme Mars, même si la distance ne fait pas tout. Ce qui compte aussi, c’est que la Terre a une atmosphère qui maintient une pression suffisante et un effet de serre modéré. Vénus est un cas extrême de réchauffement par effet de serre, tandis que Mars possède une atmosphère trop faible pour garder l’eau liquide stable. Finalement, la Terre se situe dans une sorte de zone d’équilibre très favorable.
+
+R2
+La tectonique joue sur le climat de manière beaucoup plus large que la seule dérive des continents vers des latitudes plus chaudes ou plus froides. Elle agit par le volcanisme, qui remet du CO₂ dans l’atmosphère, mais aussi par la formation de chaînes de montagnes, qui favorisent l’érosion et l’altération chimique, donc la consommation du CO₂. En plus, lorsque les continents se déplacent, les océans changent de forme, des passages marins s’ouvrent ou se ferment, et cela modifie les courants marins. Comme ces courants transportent de la chaleur, le climat global peut être profondément transformé. Tous ces mécanismes évoluent très lentement, mais sur des millions d’années ils ont des effets énormes.
+
+R3
+Je choisirais l’exemple de la fermeture de l’isthme de Panama, parce qu’il montre bien qu’un changement géographique relativement local peut avoir des conséquences planétaires. La séparation plus nette entre Pacifique et Atlantique a changé la circulation océanique et renforcé certains transports de chaleur et d’humidité. Cela a favorisé des conditions propices aux glaciations dans l’hémisphère Nord. Donc la tectonique ne joue pas seulement en créant des montagnes ou en modifiant le CO₂, elle agit aussi sur la façon dont l’océan redistribue l’énergie. C’est une bonne illustration du fait que le climat dépend fortement de la géographie de la planète.
+
+R4
+Une glaciation globale n’est pas stable à très long terme, même si elle peut paraître auto-entretenue à cause de l’albédo de la glace. En effet, plus il y a de glace, plus la planète réfléchit l’énergie solaire, donc plus elle reste froide. Mais ce n’est pas toute l’histoire, car le volcanisme continue à émettre du CO₂. Si les continents sont recouverts de glace, l’altération chimique ralentit beaucoup, donc ce CO₂ n’est plus vraiment retiré de l’atmosphère. Il finit par s’accumuler jusqu’à réchauffer suffisamment la planète. Autrement dit, la glaciation prépare progressivement sa propre fin.
+
+---
+
+## Étudiant 8 — très concis, efficace, va à l’essentiel
+
+R1
+La Terre se distingue de Vénus et Mars car elle réunit les bonnes conditions de température et de pression pour stabiliser l’eau liquide. Vénus est trop chaude à cause d’un effet de serre extrême, et Mars a une atmosphère trop faible pour maintenir durablement l’eau liquide. Sur Terre, l’eau peut donc exister sous forme de vapeur, de liquide et de glace. C’est ce qui rend possible un cycle de l’eau complet.
+
+R2
+La tectonique influence le climat par le cycle du carbone et par la circulation océanique. Le volcanisme émet du CO₂, alors que l’altération des roches en consomme. Les mouvements des plaques changent aussi la forme des continents et des océans, ce qui modifie les courants et la répartition de la chaleur. Ces mécanismes varient sur des millions d’années.
+
+R3
+L’Himalaya est un bon exemple. Sa formation a augmenté l’altération chimique, ce qui a contribué à faire baisser le CO₂ atmosphérique et donc à refroidir le climat. En plus, cette chaîne a modifié la circulation atmosphérique asiatique. La tectonique agit donc à la fois sur la géochimie et sur la dynamique du climat.
+
+R4
+Une glaciation globale est instable car le volcanisme continue d’émettre du CO₂ pendant que l’altération, elle, diminue fortement sous la glace. Le CO₂ s’accumule donc dans l’atmosphère. À long terme, cela renforce l’effet de serre et provoque la déglaciation. L’état glaciaire global ne peut donc pas durer indéfiniment.
+
+---
+
+## Étudiant 9 — moyen appliqué, sérieux, un peu scolaire
+
+R1
+La Terre a des caractéristiques particulières qui lui permettent de conserver l’eau sous ses trois formes. Sa distance au Soleil est adaptée, et son atmosphère est assez dense pour maintenir une pression compatible avec l’eau liquide. Sur Vénus, les températures sont beaucoup trop élevées à cause d’un effet de serre très fort. Sur Mars, la température est basse et surtout la pression est trop faible. C’est donc la combinaison de plusieurs facteurs qui rend la Terre habitable.
+
+R2
+La tectonique influence les températures de surface par différents processus. Le plus important est sans doute le rôle du CO₂ : les volcans en émettent, alors que l’altération chimique des roches permet d’en retirer de l’atmosphère. La formation de montagnes peut augmenter cette altération. Par ailleurs, la position des continents et l’ouverture ou la fermeture de passages océaniques modifient la circulation océanique. Cela influence la répartition de la chaleur sur la planète.
+
+R3
+Un exemple du cours est la formation de grandes chaînes de montagnes comme l’Himalaya. Cela a eu un effet sur le climat car l’altération des roches a augmenté, ce qui a entraîné une baisse du CO₂ atmosphérique. En plus, la présence d’un relief aussi important modifie les précipitations et la circulation des vents. Cela montre que la tectonique agit à la fois sur l’atmosphère et sur la circulation climatique. Le climat dépend donc fortement de l’évolution géologique de la Terre.
+
+R4
+La glaciation globale est un phénomène instable parce qu’elle ne peut pas bloquer complètement le fonctionnement interne de la Terre. Le volcanisme continue à émettre du CO₂, alors que les mécanismes de consommation de ce CO₂ deviennent plus faibles si les continents sont englacés. Peu à peu, le CO₂ s’accumule et le réchauffement finit par l’emporter. La planète sort alors de l’état glaciaire. C’est pour cela que ces épisodes ne peuvent pas durer éternellement.
+
+---
+
+## Étudiant 10 — plus faible, avec quelques maladresses mais plausible
+
+R1
+La Terre est différente de Vénus et de Mars car elle a les bonnes conditions pour l’eau. Il y a de l’eau liquide, mais aussi de la glace et de la vapeur d’eau. Sur Vénus, il fait trop chaud et l’effet de serre est trop fort, donc l’eau liquide ne peut pas rester. Sur Mars, l’atmosphère est trop petite et il fait trop froid. Donc la Terre est la seule des trois où l’eau est vraiment stable sous plusieurs formes.
+
+R2
+La tectonique agit sur le climat aussi avec le volcanisme et les montagnes. Les volcans mettent du CO₂ dans l’air, ce qui peut réchauffer. Les montagnes font plus d’érosion et d’altération, donc cela peut enlever du CO₂. Aussi, quand les continents bougent, les mers et les océans changent, et cela modifie les courants. Tout cela agit lentement mais sur très longtemps.
+
+R3
+Par exemple, quand une grande montagne se forme, cela peut changer le climat. L’Himalaya est un bon exemple parce qu’il a sûrement fait baisser le CO₂ avec l’altération des roches. Il a aussi changé les vents et les pluies en Asie. Donc la tectonique ne change pas seulement le paysage, elle change aussi le climat. On peut dire que la paléogéographie influence directement les conditions climatiques.
+
+R4
+Une glaciation globale n’est pas stable car même si la Terre est très froide, les volcans continuent. Ils ajoutent du CO₂ dans l’atmosphère. Comme la glace bloque beaucoup l’altération, ce CO₂ part moins facilement. Alors il s’accumule et réchauffe peu à peu la planète. Finalement, la glace fond et la glaciation s’arrête.
+

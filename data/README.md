@@ -1,63 +1,45 @@
-# Input data layout
+# Data directory
 
-This directory is expected to contain the textual input files used by the analysis.
+This directory contains the input text files used by the analysis.
 
-## Expected structure
+## LLM files
+
+The LLM files are stored directly in `data/` and follow this naming convention:
 
 ```text
-data/
-├── chatgpt10.txt
-├── chatgpt20.txt
-├── chatgpt30.txt
-├── claude10.txt
-├── claude20.txt
-├── claude30.txt
-├── deepseek10.txt
-├── deepseek20.txt
-├── deepseek30.txt
-├── gemini10.txt
-├── gemini20.txt
-├── gemini30.txt
-├── mistral10.txt
-├── mistral20.txt
-├── mistral30.txt
-├── grok10.txt
-├── grok20.txt
-├── grok30.txt
-└── students/
-    ├── E01.txt
-    ├── E02.txt
-    ├── E03.txt
-    └── ...
+chatgpt10.txt, chatgpt20.txt, chatgpt30.txt
+claude10.txt,  claude20.txt,  claude30.txt
+deepseek10.txt, deepseek20.txt, deepseek30.txt
+gemini10.txt, gemini20.txt, gemini30.txt
+mistral10.txt, mistral20.txt, mistral30.txt
+grok10.txt, grok20.txt, grok30.txt
 ```
 
-The script expects each file to contain four blocks labelled `R1`, `R2`, `R3`, and `R4`.
+The suffix `10`, `20`, or `30` indicates the number of generated answers per LLM configuration.
 
-## LLM answer files
+## Student files
 
-The LLM files can contain one or several answer variants. If variants are labelled as `COPIE A`, `COPIE B`, etc., the script automatically splits them into separate reference answers.
+The student answer files are stored in:
 
-## Student answer files
+```text
+data/students/
+```
 
-Student files should be anonymized before public release. Recommended file names are:
+Their filenames are already anonymized:
 
 ```text
 E01.txt
 E02.txt
-E03.txt
 ...
+E17.txt
 ```
 
-Seeded or test names such as `META`, `ALIBABA`, `IBM`, `KIMI`, or `CHEAT` can be preserved when they correspond to artificial controls rather than real students.
+The file `META.txt` is kept with its explicit label because it is a seeded test answer, not a real student identity.
 
-## Files that should not be committed
+## Private files not included
 
-Do not publish the anonymization correspondence table:
+The private anonymization map linking original student names or filenames to public identifiers is not included and must not be committed:
 
 ```text
 student_anonymization_map.csv
 ```
-
-This file is generated in the output directory and is ignored by Git.
-
-Compressed archives such as `.rar` or `.zip` are also ignored by default. Extract the anonymized `.txt` files instead.

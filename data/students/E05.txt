@@ -1,0 +1,63 @@
+R1
+
+Le développement de la vie dépend en partie de la présence d’eau liquide sur Terre, qui réunit
+des caractéristiques spécifiques par r apport à Mars et Vénus permettant l’eau d’exister sous
+trois formes (gaz, liquide et solide).
+Vénus est plus proche du Soleil que la Terre et Mars et reçoit donc davantage d’énergie solaire.
+Son atmosphère, beaucoup plus dense, réfléchit les rayons solaires de manière beaucoup plus
+importante. La forte émission de gaz à effet de serre (GES) participe, au même titre que les
+caractéristiques précédentes, à l’augmentation de la température au sol de Vénus (par rapport à
+la Terre et à Mars), qui s’élève alors à 470° C. L’eau ne peut donc exister sur Vénus que sous
+forme gazeuse puisque l’eau solide serait fondue et l’eau liquide évaporée.
+Mars est plus éloignée du Soleil que la Terre et Vénus et reçoit donc moins d’énergie solaire.
+Toutefois, son atmosphère est quasi-inexistante (ne retenant donc pas l’énergie solaire) et ses
+émissions de GES sont faibles : ses températures au sol varient donc entre +20° C le jour et -
+140° C la nuit. Ainsi, la présence d’eau liquide sur Mars semble peu viable puisqu’elle
+deviendrait solide la nuit. Idem pour l’eau gazeuse qui deviendrait liquide.
+Enfin, la Terre a aussi l’avantage d’avoir son inclinaison rigidifiée par la Lune, son satellite, ce
+qui permet de réguler le climat terrestre et qui participe à la présence durable de l’eau sous ses
+trois formes.
+
+
+R2
+
+La tectonique est une dynamique interne à une planète liée à la dissipation d’une énergie
+présente dans le manteau et qui est à l’origine du déplacement des continents sur la lithosphère.
+La tectonique agit donc sur les températures des plaques continentales en les faisant dériver sur
+diverses latitudes mais pas seulement.
+En effet, elle joue sur le cycle du carbone (CO2) : avec des continents aux pôles, il n’y a aucune
+évaporation de l’eau (impliquant une absence de précipitations et un climat aride puisque privé
+d’érosion). En faisant bouger les continents près de l’équateur, le climat devient plus tropical
+avec davantage de précipitations et un stockage de CO2 par des puits au sein des plaques
+tectonique en diminuant le CO2 atmosphérique et permettant ainsi une forme de régulation à
+l’inverse d’un climat.
+C’est ainsi le chercheur Walker a mis en avant des cycles de 500 Ma d’années qui sont
+influencés par le triptyque tectonique-climat-CO2.
+
+
+R3
+
+Walker a démontré la présence de cycles de 500 millions d’années (Ma) chacun qui débute avec
+un continent unique, qu’on appelle alors « supercontinent », se délitant au fil du temps. La
+configuration de la tectonique a ainsi centré le supercontinent Rodinia il y a 750 Ma en position
+tropicale, ce qui implique de fortes précipitations (surtout sur les littoraux) et a enfoncé le puits
+de CO2 par érosion des sols. Les plaques continentales se sont ainsi retrouvées avec une forte
+concentration de CO2 (1 800 ppm contre les 430 actuels) et sont restées en zone tropicale lors
+de leur délitement du fait de la configuration tectonique. Ainsi, la façon dont était placé le
+Rodinia par la tectonique a joué à la fois sur le climat de Rodinia mais aussi le climat qui a suivi
+le délitement du supercontinent.
+
+
+R4
+
+Walker a démontré la puissance du triptyque tectonique-CO2-climat, ce qui est illustré par
+l’exemple de Rodinia (750 Ma). La configuration de la tectonique participe en effet de la
+glaciation de la Terre qui n’est, dès lors, pas stable. Rodinia était centré en position tropicale,
+ce qui impliquait des précipitations importantes. Ces précipitations ont enfoncé le puits de CO2,
+dont la quantité de diminuer. Mais la baisse de CO2 est tellement importante qu’elle
+surcompense la position tropicale et conduit à une glaciation (qui ne fait pas baisser les
+températures en-dessous de 0° C). Or, même en période de glaciation, le volcanisme se poursuit.
+Il libère du CO2 qui ne s’érode pas avec les sols (qui sont enneigés) mais est stocké dans
+l’atmosphère. Le taux de CO2 atmosphérique augmentant en quelques dizaines de Ma, son
+stock devient suffisant pour faire fondre les calottes de glace. La glaciation globale de la Terre
+est donc instable par nature puisqu’elle est vouée à se terminer.
